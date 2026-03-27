@@ -19,7 +19,9 @@
 
 ### 🎥 Video Demo
 
-https://github.com/YOUR_USERNAME/wifi-security-auditor/assets/YOUR_USER_ID/demo.mp4
+
+https://github.com/user-attachments/assets/a9b5f5e9-651e-4980-a708-ff3617dfcddc
+
 
 
 
