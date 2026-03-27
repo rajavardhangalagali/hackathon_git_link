@@ -21,19 +21,7 @@
 
 https://github.com/YOUR_USERNAME/wifi-security-auditor/assets/YOUR_USER_ID/demo.mp4
 
-> **Note:** Video will auto-play on GitHub. Upload your `demo.mp4` file when editing README on GitHub.
 
-### 📸 Screenshots
-
-<div align="center">
-
-| Dashboard | Network Map | Analytics |
-|-----------|-------------|-----------|
-| ![Dashboard](./screenshots/dashboard.png) | ![Network Map](./screenshots/network-map.png) | ![Analytics](./screenshots/analytics.png) |
-
-</div>
-
----
 
 ## ✨ Features
 
