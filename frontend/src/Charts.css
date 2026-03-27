@@ -1,0 +1,63 @@
+/* Mobile First - Charts */
+.charts-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.chart {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  padding: 12px;
+  border: 1px solid #333;
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.chart h3 {
+  font-size: 12px;
+  color: #00ff88;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.chart .js-plotly-plot {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.chart .plotly {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* Tablet - 600px and up */
+@media (min-width: 600px) {
+  .charts-container {
+    gap: 15px;
+  }
+  
+  .chart {
+    padding: 15px;
+  }
+  
+  .chart h3 {
+    font-size: 13px;
+    margin-bottom: 10px;
+  }
+}
+
+/* Desktop - 1024px and up */
+@media (min-width: 1024px) {
+  .charts-container {
+    gap: 20px;
+  }
+  
+  .chart h3 {
+    font-size: 14px;
+  }
+}

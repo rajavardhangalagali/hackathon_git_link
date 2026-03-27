@@ -1,0 +1,94 @@
+# Root .gitignore for WiFi Security Auditor
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Configuration files with sensitive data (optional)
+config.json
+!config.example.json
+
+# Generated Reports
+*.pdf
+wifi_security_report_*.pdf
+
+# Demo and Screenshots (keep small files, ignore large ones)
+# Uncomment if your demo video is over 10MB
+# demo.mp4
+# demo.mov
+# demo.avi
+
+# Keep these for GitHub
+# demo.gif (under 10MB is fine)
+# screenshots/*.png (under 500KB each is fine)
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+wifi_auditor.db
+
+# Backup Files
+*.backup
+backup/
+backups/
+
+# Documentation Build
+docs/_build/
+site/
+
+# Coverage Reports
+coverage/
+*.cover
+.coverage
+.coverage.*
+htmlcov/
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# System Files
+*.pid
+*.seed
+*.pid.lock
