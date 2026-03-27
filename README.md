@@ -439,9 +439,9 @@ This tool is provided for educational and authorized security testing purposes o
 
 ## 📧 Contact & Support
 
-- **Issues:** [GitHub Issues](https://github.com/YOUR_USERNAME/wifi-security-auditor/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/YOUR_USERNAME/wifi-security-auditor/discussions)
-- **Email:** your.email@example.com
+- **Issues:** [GitHub Issues](https://github.com/rajavardhangalagali/wifi-security-auditor/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/rajavardhangalagali/wifi-security-auditor/discussions)
+- **Email:** rajvardhangalagali26@gmail.com
 
 ---
 
